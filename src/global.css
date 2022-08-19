@@ -1,0 +1,21 @@
+:root {
+    --color-main: white;
+    --color-item: white;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-weight: 900;
+    font-size:3.5vmax;
+    text-shadow: 1px 1px 1px black;
+    color: black;
+}
